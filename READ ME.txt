@@ -22,3 +22,4 @@ Do **not** rename or move the three subfolders — the script looks for them by 
 
 
 4. "Confirm everything installed correctly via Windows key + S > search; "Installed Apps" > (sort by date installed) > Confirm"
+5. Restart to apply changes.
