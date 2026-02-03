@@ -25,7 +25,7 @@ Change this to match your path  ↓
    ```
 Add this to the end of your path ↓
    ```
-   \.Net-and-VC-All-In-One-Silent-Installer\Install-AllRuntimes-(RunAdmin!).ps1
+   \.Net-and-VC-All-In-One-Silent-Installer\Install-AllRuntimes-(RunAdmin!).ps1"
    ```
 Your Path Should look like this now ↓
    ```
