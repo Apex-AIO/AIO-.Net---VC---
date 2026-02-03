@@ -90,3 +90,1051 @@
 2026-02-04 04:57:33 - Completed VC++: Visual Studio 2015_x86.exe
 2026-02-04 04:57:33 - VC++ section finished
 2026-02-04 04:57:33 - Script reached the end successfully
+2026-02-04 06:43:36 - Starting final installation run v3 from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 06:43:36 - About to check .NET folder
+2026-02-04 06:43:36 - Entering .NET section
+2026-02-04 06:43:36 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:43:37 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 06:43:37 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:43:38 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 06:43:38 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:43:40 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 06:43:40 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:43:41 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 06:43:44 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:43:45 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 06:43:45 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:43:47 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 06:43:47 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 06:43:48 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 06:43:48 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 06:43:49 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 06:43:49 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 06:43:50 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 06:43:50 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 06:43:51 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 06:43:51 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:43:53 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 06:43:53 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:43:55 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 06:43:55 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:43:57 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 06:43:57 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:43:58 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 06:43:58 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:43:59 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 06:43:59 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:44:00 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 06:44:00 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:44:01 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 06:44:01 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:44:02 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 06:44:02 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:44:03 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 06:44:03 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:44:04 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 06:44:04 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:44:05 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 06:44:05 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:44:07 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 06:44:07 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:44:08 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 06:44:08 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:44:09 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 06:44:09 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:44:10 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 06:44:10 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:44:11 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 06:44:11 - .NET section finished
+2026-02-04 06:44:11 - About to check VC++ folder
+2026-02-04 06:44:11 - Entering VC++ section
+2026-02-04 06:44:11 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 06:44:12 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 06:44:12 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 06:44:13 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 06:44:13 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 06:44:15 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 06:44:15 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 06:44:17 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 06:44:17 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 06:44:19 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 06:44:19 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 06:44:22 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 06:44:22 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 06:44:25 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 06:44:25 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 06:44:28 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 06:44:28 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 06:44:29 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 06:44:29 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 06:44:30 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 06:44:30 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 06:44:31 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 06:44:31 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 06:44:32 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 06:44:32 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 06:44:33 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 06:44:33 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 06:44:34 - Completed VC++: Visual Studio 2015_x86.exe
+2026-02-04 06:44:34 - VC++ section finished
+2026-02-04 06:44:34 - Script reached the end successfully
+2026-02-04 06:49:22 - Starting final installation run v3 from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 06:49:22 - About to check .NET folder
+2026-02-04 06:49:22 - Entering .NET section
+2026-02-04 06:49:22 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:23 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 06:49:23 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:24 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 06:49:24 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:25 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 06:49:25 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:26 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 06:49:26 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:27 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 06:49:27 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:28 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 06:49:28 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 06:49:29 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 06:49:29 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 06:49:30 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 06:49:30 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 06:49:31 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 06:49:31 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 06:49:32 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 06:49:32 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:34 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 06:49:34 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:36 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 06:49:36 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:37 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 06:49:37 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:38 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 06:49:38 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:39 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 06:49:39 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:40 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 06:49:40 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:41 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 06:49:41 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:42 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 06:49:42 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:43 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 06:49:43 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:44 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 06:49:44 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:45 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 06:49:45 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:47 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 06:49:47 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:48 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 06:49:48 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:49 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 06:49:49 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:50 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 06:49:50 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:51 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 06:49:51 - .NET section finished
+2026-02-04 06:49:51 - About to check VC++ folder
+2026-02-04 06:49:51 - Entering VC++ section
+2026-02-04 06:49:51 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 06:49:52 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 06:49:52 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 06:49:53 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 06:49:53 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 06:49:55 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 06:49:55 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 06:49:57 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 06:49:57 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 06:49:59 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 06:49:59 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 06:50:01 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 06:50:01 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 06:50:06 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 06:50:06 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 06:50:09 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 06:50:09 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 06:50:10 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 06:50:10 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 06:50:11 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 06:50:11 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 06:50:12 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 06:50:12 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 06:50:13 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 06:50:13 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 06:50:14 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 06:50:14 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 06:50:15 - Completed VC++: Visual Studio 2015_x86.exe
+2026-02-04 06:50:15 - VC++ section finished
+2026-02-04 06:50:15 - Script reached the end successfully
+2026-02-04 06:58:33 - Starting final installation run v3 from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 06:58:33 - About to check .NET folder
+2026-02-04 06:58:33 - Entering .NET section
+2026-02-04 06:58:33 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:58:34 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 06:58:34 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:58:35 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 06:58:35 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:58:36 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 06:58:36 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:58:37 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 06:58:37 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:58:38 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 06:58:38 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:58:39 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 06:58:39 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 06:58:40 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 06:58:40 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 06:58:41 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 06:58:41 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 06:58:42 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 06:58:42 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 06:58:43 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 06:58:43 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:58:45 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 06:58:45 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:58:46 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 06:58:46 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:58:47 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 06:58:47 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:58:48 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 06:58:48 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:58:49 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 06:58:49 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:58:50 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 06:58:50 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:58:51 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 06:58:51 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:58:52 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 06:58:52 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:58:53 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 06:58:53 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:58:55 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 06:58:55 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:58:56 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 06:58:56 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:58:57 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 06:58:57 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:58:58 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 06:58:58 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:58:59 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 06:58:59 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 06:59:00 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 06:59:00 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 06:59:01 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 06:59:01 - .NET section finished
+2026-02-04 06:59:01 - About to check VC++ folder
+2026-02-04 06:59:01 - Entering VC++ section
+2026-02-04 06:59:01 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 06:59:02 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 06:59:02 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 06:59:03 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 06:59:03 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 06:59:05 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 06:59:05 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 06:59:07 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 06:59:07 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 06:59:09 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 06:59:09 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 06:59:11 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 06:59:11 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 06:59:14 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 06:59:14 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 06:59:17 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 06:59:17 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 06:59:18 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 06:59:18 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 06:59:19 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 06:59:19 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 06:59:20 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 06:59:20 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 06:59:21 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 06:59:21 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 06:59:22 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 06:59:22 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 06:59:23 - Completed VC++: Visual Studio 2015_x86.exe
+2026-02-04 06:59:23 - VC++ section finished
+2026-02-04 06:59:23 - Script reached the end successfully
+2026-02-04 07:02:18 - Starting final installation run v3 from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 07:02:18 - About to check .NET folder
+2026-02-04 07:02:18 - Entering .NET section
+2026-02-04 07:02:18 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:19 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 07:02:19 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:20 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 07:02:20 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:21 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 07:02:21 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:22 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 07:02:22 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:23 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 07:02:23 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:24 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 07:02:24 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:02:25 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 07:02:25 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:02:26 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 07:02:26 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:02:27 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 07:02:27 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:02:28 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 07:02:28 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:31 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 07:02:31 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:32 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 07:02:32 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:33 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 07:02:33 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:34 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 07:02:34 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:35 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 07:02:35 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:36 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 07:02:36 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:37 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 07:02:37 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:38 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 07:02:38 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:39 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 07:02:39 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:40 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 07:02:40 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:41 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 07:02:41 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:42 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 07:02:42 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:43 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 07:02:43 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:44 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 07:02:44 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:45 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 07:02:45 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:46 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 07:02:46 - .NET section finished
+2026-02-04 07:02:46 - About to check VC++ folder
+2026-02-04 07:02:46 - Entering VC++ section
+2026-02-04 07:02:46 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 07:02:47 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 07:02:47 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 07:02:48 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 07:02:48 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 07:02:50 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 07:02:50 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 07:02:52 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 07:02:52 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 07:02:54 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 07:02:54 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 07:02:56 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 07:02:56 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 07:02:59 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 07:02:59 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 07:03:03 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 07:03:03 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 07:03:04 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 07:03:04 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 07:03:05 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 07:03:05 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 07:03:06 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 07:03:06 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 07:03:07 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 07:03:07 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 07:03:08 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 07:03:08 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 07:03:09 - Completed VC++: Visual Studio 2015_x86.exe
+2026-02-04 07:03:09 - VC++ section finished
+2026-02-04 07:14:36 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 07:14:36 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:14:37 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 07:14:37 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:14:38 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 07:14:38 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:14:39 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 07:14:39 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:14:40 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 07:14:40 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:14:41 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 07:14:41 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:14:42 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 07:14:42 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:14:44 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 07:14:44 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:14:45 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 07:14:45 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:14:46 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 07:14:46 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:14:47 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 07:14:47 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:14:48 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 07:14:51 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:14:53 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 07:14:53 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:14:54 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 07:14:54 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:14:55 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 07:14:56 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:14:57 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 07:14:57 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:14:58 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 07:14:58 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:14:59 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 07:14:59 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:15:00 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 07:15:00 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:15:02 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 07:15:02 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:15:03 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 07:15:03 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:15:04 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 07:15:04 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:15:05 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 07:15:05 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:15:06 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 07:15:06 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:15:07 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 07:15:07 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:15:08 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 07:15:08 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:15:09 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 07:15:10 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 07:15:11 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 07:15:11 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 07:15:12 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 07:15:12 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 07:15:14 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 07:15:14 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 07:15:16 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 07:15:16 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 07:15:18 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 07:15:18 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 07:15:20 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 07:15:20 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 07:15:23 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 07:15:23 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 07:15:26 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 07:15:26 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 07:15:27 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 07:15:27 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 07:15:28 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 07:15:28 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 07:15:29 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 07:15:29 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 07:15:31 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 07:15:31 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 07:15:32 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 07:15:32 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 07:15:33 - Completed VC++: Visual Studio 2015_x86.exe
+2026-02-04 07:16:37 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 07:16:37 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:16:38 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 07:16:38 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:16:40 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 07:16:40 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:16:41 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 07:16:41 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:16:42 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 07:16:42 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:16:43 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 07:16:43 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:16:44 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 07:16:44 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:16:45 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 07:16:45 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:16:46 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 07:16:46 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:16:47 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 07:16:47 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:16:48 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 07:16:48 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:16:49 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 07:16:49 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:16:51 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 07:16:51 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:16:52 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 07:16:52 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:16:53 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 07:16:53 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:16:54 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 07:16:54 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:16:55 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 07:16:55 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:16:56 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 07:16:56 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:16:57 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 07:16:57 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:20:40 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 07:20:40 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:20:41 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 07:20:41 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:20:42 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 07:20:42 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:20:43 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 07:20:43 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:20:44 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 07:20:44 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:20:45 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 07:20:45 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:20:46 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 07:20:46 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:20:47 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 07:20:47 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:20:48 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 07:20:48 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:20:49 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 07:20:49 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:20:50 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 07:20:50 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:20:52 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 07:20:52 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:22:30 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 07:22:30 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:22:31 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 07:22:31 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:22:32 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 07:22:32 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:22:33 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 07:22:33 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:22:34 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 07:22:34 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:22:35 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 07:22:35 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:22:36 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 07:22:36 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:22:37 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 07:22:37 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:22:38 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 07:22:38 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:22:39 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 07:22:39 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:22:40 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 07:22:40 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:22:43 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 07:22:43 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:22:45 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 07:22:47 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:22:48 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 07:22:48 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:22:49 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 07:22:49 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:22:50 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 07:22:50 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:23:35 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 07:23:35 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:23:36 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 07:23:36 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:23:37 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 07:23:37 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:23:38 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 07:23:38 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:23:39 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 07:23:39 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:23:40 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 07:23:40 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:23:41 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 07:23:41 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:23:42 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 07:23:42 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:23:43 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 07:23:43 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:23:44 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 07:23:44 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:23:45 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 07:23:46 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:23:47 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 07:23:47 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:23:48 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 07:23:48 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:25:17 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 07:25:17 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:25:18 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 07:25:18 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:25:20 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 07:25:20 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:25:21 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 07:25:21 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:25:22 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 07:25:22 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:38:44 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 07:38:44 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:38:45 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 07:38:45 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:38:46 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 07:38:46 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:38:47 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 07:38:47 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:38:48 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 07:38:48 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:38:49 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 07:38:49 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:38:50 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 07:38:50 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:38:51 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 07:38:51 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:38:52 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 07:38:52 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:38:53 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 07:38:53 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:38:54 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 07:38:54 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:38:55 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 07:38:55 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:38:56 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 07:38:56 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:38:57 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 07:38:57 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:38:58 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 07:38:58 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:38:59 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 07:38:59 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:39:00 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 07:39:00 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:39:01 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 07:39:01 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:39:02 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 07:39:02 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:39:03 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 07:39:03 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:39:04 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 07:39:04 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:39:05 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 07:39:05 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:39:06 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 07:39:06 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:39:07 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 07:39:07 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:39:08 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 07:39:08 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:39:09 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 07:39:09 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:39:10 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 07:39:10 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 07:39:11 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 07:39:11 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 07:39:13 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 07:39:13 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 07:39:15 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 07:39:15 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 07:39:16 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 07:39:16 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 07:39:18 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 07:39:18 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 07:39:20 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 07:39:20 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 07:39:23 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 07:39:23 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 07:39:26 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 07:39:26 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 07:39:27 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 07:39:27 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 07:39:28 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 07:39:28 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 07:39:29 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 07:39:29 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 07:39:30 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 07:39:30 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 07:39:31 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 07:39:31 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 07:39:32 - Completed VC++: Visual Studio 2015_x86.exe
+2026-02-04 07:43:25 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 07:43:25 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:26 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 07:43:26 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:27 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 07:43:27 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:28 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 07:43:28 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:29 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 07:43:29 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:30 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 07:43:30 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:31 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 07:43:31 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:43:32 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 07:43:32 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:43:33 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 07:43:33 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:43:34 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 07:43:34 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:43:35 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 07:43:35 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:36 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 07:43:36 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:37 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 07:43:37 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:38 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 07:43:38 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:40 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 07:43:40 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:41 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 07:43:41 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:42 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 07:43:42 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:43 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 07:43:43 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:44 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 07:43:44 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:45 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 07:43:45 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:46 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 07:43:46 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:47 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 07:43:47 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:48 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 07:43:48 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:49 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 07:43:49 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:50 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 07:43:50 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:51 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 07:43:51 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:52 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 07:43:52 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 07:43:53 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 07:43:53 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 07:43:54 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 07:43:54 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 07:43:55 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 07:43:55 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 07:43:56 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 07:43:56 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 07:43:58 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 07:43:58 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 07:44:00 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 07:44:00 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 07:44:03 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 07:44:03 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 07:44:06 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 07:44:06 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 07:44:07 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 07:44:07 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 07:44:08 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 07:44:08 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 07:44:09 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 07:44:09 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 07:44:10 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 07:44:10 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 07:44:12 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 07:44:12 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 07:44:13 - Completed VC++: Visual Studio 2015_x86.exe
+2026-02-04 07:57:28 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 07:57:28 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:29 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 07:57:29 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:30 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 07:57:30 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:31 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 07:57:31 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:32 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 07:57:32 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:33 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 07:57:33 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:34 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 07:57:34 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:57:35 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 07:57:35 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:57:36 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 07:57:36 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 07:57:37 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 07:57:37 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 07:57:38 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 07:57:38 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:39 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 07:57:39 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:41 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 07:57:41 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:42 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 07:57:42 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:43 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 07:57:43 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:44 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 07:57:44 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:45 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 07:57:45 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:46 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 07:57:46 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:47 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 07:57:47 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:48 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 07:57:48 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:49 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 07:57:49 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:50 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 07:57:50 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:51 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 07:57:51 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:52 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 07:57:52 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:53 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 07:57:53 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:55 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 07:57:55 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:56 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 07:57:56 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 07:57:57 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 07:57:57 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 07:57:58 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 07:57:58 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 07:58:00 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 07:58:00 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 07:58:01 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 07:58:01 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 07:58:03 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 07:58:03 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 07:58:05 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 07:58:05 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 07:58:08 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 07:58:08 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 07:58:11 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 07:58:11 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 07:58:12 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 07:58:12 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 07:58:13 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 07:58:13 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 07:58:14 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 07:58:14 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 07:58:15 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 07:58:15 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 07:58:16 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 07:58:16 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 07:58:17 - Completed VC++: Visual Studio 2015_x86.exe
+2026-02-04 08:04:26 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 08:04:26 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:27 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 08:04:27 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:28 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 08:04:28 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:29 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 08:04:29 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:30 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 08:04:30 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:32 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 08:04:32 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:33 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 08:04:33 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 08:04:34 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 08:04:34 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 08:04:35 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 08:04:35 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 08:04:36 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 08:04:36 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 08:04:37 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 08:04:37 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:39 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 08:04:39 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:41 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 08:04:41 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:42 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 08:04:42 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:43 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 08:04:43 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:44 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 08:04:44 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:45 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 08:04:45 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:46 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 08:04:46 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:47 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 08:04:47 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:48 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 08:04:48 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:49 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 08:04:49 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:50 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 08:04:50 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:51 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 08:04:51 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:52 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 08:04:52 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:53 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 08:04:53 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:54 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 08:04:54 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:55 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 08:04:55 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 08:04:57 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 08:04:57 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 08:04:58 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 08:04:58 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 08:05:00 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 08:05:00 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 08:05:02 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 08:05:02 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 08:05:04 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 08:05:04 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 08:05:06 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 08:05:06 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 08:05:09 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 08:05:09 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 08:05:12 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 08:05:12 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 08:05:13 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 08:05:13 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 08:05:14 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 08:05:14 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 08:05:15 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 08:05:15 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 08:05:16 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 08:05:16 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 08:05:17 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 08:05:17 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 08:05:18 - Completed VC++: Visual Studio 2015_x86.exe
+2026-02-04 08:06:06 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 08:06:06 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:07 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 08:06:07 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:08 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 08:06:08 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:09 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 08:06:09 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:10 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 08:06:10 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:11 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 08:06:11 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:12 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 08:06:12 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 08:06:13 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 08:06:13 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 08:06:14 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 08:06:14 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 08:06:15 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 08:06:15 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 08:06:16 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 08:06:16 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:17 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 08:06:17 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:18 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 08:06:18 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:19 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 08:06:19 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:20 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 08:06:20 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:21 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 08:06:21 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:22 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 08:06:22 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:23 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 08:06:23 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:24 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 08:06:24 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:25 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 08:06:25 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:26 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 08:06:26 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:28 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 08:06:28 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:29 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 08:06:29 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:30 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 08:06:30 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:31 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 08:06:31 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:32 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 08:06:32 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:33 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 08:06:33 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:34 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 08:06:34 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:35 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 08:06:35 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 08:06:36 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 08:06:36 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 08:06:38 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 08:06:38 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 08:06:40 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 08:06:40 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 08:06:42 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 08:06:42 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 08:06:45 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 08:06:45 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 08:06:48 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 08:06:48 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 08:06:49 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 08:06:49 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 08:06:50 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 08:06:50 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 08:06:51 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 08:06:51 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 08:06:52 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 08:06:52 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 08:06:53 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 08:06:53 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 08:06:54 - Completed VC++: Visual Studio 2015_x86.exe
+2026-02-04 08:10:13 - Starting final installation run from: C:\Users\Apex\Desktop\.Net-and-VC-All-In-One-Silent-Installer-main
+2026-02-04 08:10:13 - Installing .NET: dotnet-runtime-2.0.9-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:14 - Completed .NET: dotnet-runtime-2.0.9-win-x64.exe
+2026-02-04 08:10:14 - Installing .NET: dotnet-runtime-2.0.9-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:15 - Completed .NET: dotnet-runtime-2.0.9-win-x86.exe
+2026-02-04 08:10:15 - Installing .NET: dotnet-runtime-2.1.30-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:16 - Completed .NET: dotnet-runtime-2.1.30-win-x64.exe
+2026-02-04 08:10:16 - Installing .NET: dotnet-runtime-2.1.30-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:17 - Completed .NET: dotnet-runtime-2.1.30-win-x86.exe
+2026-02-04 08:10:17 - Installing .NET: dotnet-runtime-2.2.8-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:18 - Completed .NET: dotnet-runtime-2.2.8-win-x64.exe
+2026-02-04 08:10:18 - Installing .NET: dotnet-runtime-2.2.8-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:19 - Completed .NET: dotnet-runtime-2.2.8-win-x86.exe
+2026-02-04 08:10:19 - Installing .NET: dotnet-win-x64.1.0.16.exe â†’ /q /norestart
+2026-02-04 08:10:21 - Completed .NET: dotnet-win-x64.1.0.16.exe
+2026-02-04 08:10:21 - Installing .NET: dotnet-win-x64.1.1.13.exe â†’ /q /norestart
+2026-02-04 08:10:22 - Completed .NET: dotnet-win-x64.1.1.13.exe
+2026-02-04 08:10:22 - Installing .NET: dotnet-win-x86.1.0.16.exe â†’ /q /norestart
+2026-02-04 08:10:23 - Completed .NET: dotnet-win-x86.1.0.16.exe
+2026-02-04 08:10:23 - Installing .NET: dotnet-win-x86.1.1.13.exe â†’ /q /norestart
+2026-02-04 08:10:24 - Completed .NET: dotnet-win-x86.1.1.13.exe
+2026-02-04 08:10:24 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:26 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x64.exe
+2026-02-04 08:10:26 - Installing .NET: windowsdesktop-runtime-10.0.2-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:27 - Completed .NET: windowsdesktop-runtime-10.0.2-win-x86.exe
+2026-02-04 08:10:27 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:28 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x64.exe
+2026-02-04 08:10:28 - Installing .NET: windowsdesktop-runtime-3.0.3-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:29 - Completed .NET: windowsdesktop-runtime-3.0.3-win-x86.exe
+2026-02-04 08:10:29 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:30 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x64.exe
+2026-02-04 08:10:30 - Installing .NET: windowsdesktop-runtime-3.1.32-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:31 - Completed .NET: windowsdesktop-runtime-3.1.32-win-x86.exe
+2026-02-04 08:10:31 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:32 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x64.exe
+2026-02-04 08:10:32 - Installing .NET: windowsdesktop-runtime-5.0.17-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:33 - Completed .NET: windowsdesktop-runtime-5.0.17-win-x86.exe
+2026-02-04 08:10:33 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:34 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x64.exe
+2026-02-04 08:10:34 - Installing .NET: windowsdesktop-runtime-6.0.36-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:35 - Completed .NET: windowsdesktop-runtime-6.0.36-win-x86.exe
+2026-02-04 08:10:35 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:36 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x64.exe
+2026-02-04 08:10:36 - Installing .NET: windowsdesktop-runtime-7.0.20-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:37 - Completed .NET: windowsdesktop-runtime-7.0.20-win-x86.exe
+2026-02-04 08:10:37 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:38 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x64.exe
+2026-02-04 08:10:38 - Installing .NET: windowsdesktop-runtime-8.0.23-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:39 - Completed .NET: windowsdesktop-runtime-8.0.23-win-x86.exe
+2026-02-04 08:10:39 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:40 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x64.exe
+2026-02-04 08:10:40 - Installing .NET: windowsdesktop-runtime-9.0.12-win-x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:41 - Completed .NET: windowsdesktop-runtime-9.0.12-win-x86.exe
+2026-02-04 08:10:41 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe â†’ /quiet /norestart
+2026-02-04 08:10:42 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x64.exe
+2026-02-04 08:10:42 - Installing VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe â†’ /quiet /norestart
+2026-02-04 08:10:43 - Completed VC++: Visual C++ Redistributable v14 (2017-2026)_x86.exe
+2026-02-04 08:10:43 - Installing VC++: Visual Studio 2005_x64.EXE â†’ /Q
+2026-02-04 08:10:44 - Completed VC++: Visual Studio 2005_x64.EXE
+2026-02-04 08:10:44 - Installing VC++: Visual Studio 2005_x86.EXE â†’ /Q
+2026-02-04 08:10:46 - Completed VC++: Visual Studio 2005_x86.EXE
+2026-02-04 08:10:46 - Installing VC++: Visual Studio 2008_x64.exe â†’ /q /norestart
+2026-02-04 08:10:49 - Completed VC++: Visual Studio 2008_x64.exe
+2026-02-04 08:10:49 - Installing VC++: Visual Studio 2008_x86.exe â†’ /q /norestart
+2026-02-04 08:10:51 - Completed VC++: Visual Studio 2008_x86.exe
+2026-02-04 08:10:51 - Installing VC++: Visual Studio 2010_x64.exe â†’ /q /norestart
+2026-02-04 08:10:54 - Completed VC++: Visual Studio 2010_x64.exe
+2026-02-04 08:10:54 - Installing VC++: Visual Studio 2010_x86.exe â†’ /q /norestart
+2026-02-04 08:10:57 - Completed VC++: Visual Studio 2010_x86.exe
+2026-02-04 08:10:57 - Installing VC++: Visual Studio 2012_x64.exe â†’ /q /norestart
+2026-02-04 08:10:58 - Completed VC++: Visual Studio 2012_x64.exe
+2026-02-04 08:10:58 - Installing VC++: Visual Studio 2012_x86.exe â†’ /q /norestart
+2026-02-04 08:10:59 - Completed VC++: Visual Studio 2012_x86.exe
+2026-02-04 08:10:59 - Installing VC++: Visual Studio 2013_x64.exe â†’ /q /norestart
+2026-02-04 08:11:00 - Completed VC++: Visual Studio 2013_x64.exe
+2026-02-04 08:11:00 - Installing VC++: Visual Studio 2013_x86.exe â†’ /q /norestart
+2026-02-04 08:11:01 - Completed VC++: Visual Studio 2013_x86.exe
+2026-02-04 08:11:01 - Installing VC++: Visual Studio 2015_x64.exe â†’ /quiet /norestart
+2026-02-04 08:11:02 - Completed VC++: Visual Studio 2015_x64.exe
+2026-02-04 08:11:02 - Installing VC++: Visual Studio 2015_x86.exe â†’ /quiet /norestart
+2026-02-04 08:11:03 - Completed VC++: Visual Studio 2015_x86.exe
