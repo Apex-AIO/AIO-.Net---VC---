@@ -1,4 +1,4 @@
-# Apexs-AIO – .NET + VC++ All-in-One Installer
+# Apex's-AIO – .NET + VC++ All-in-One Installer
 
 One script to silently install every major **.NET** runtime (1.0 → 10.x) and **Visual C++ Redistributable** (2005 → 2026) — x86 + x64.
 
@@ -7,7 +7,7 @@ One script to silently install every major **.NET** runtime (1.0 → 10.x) and *
 1. Click the green **[<> Code]** button at the top right of this repository page  
 2. Click **Download ZIP**  
 3. Extract the ".Net-and-VC-All-In-One-Silent-Installer" Folder from the downloaded ZIP Folder.
-4. Continue with the **How to Use** instructions below
+4. Continue with the **How to Use** instructions below ↓
 
 ## How to Use
 
