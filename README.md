@@ -33,4 +33,4 @@ Your Path Should look like this now ↓
    ```
 4. Press Enter and the script will run if you entered it correctly! You'll be notified in green text once the script is finished installing everything.
    
-5. Confirm everything installed correctly; Windows key + S > Installed Apps > Sort by date > A bunch of VC++ and .Net should be installed if executed correctly.
+5. Confirm everything installed correctly; **Win + S** > **Installed Apps** > **Sort by date** > **A bunch of VC++ and .Net should be installed if executed correctly**.
