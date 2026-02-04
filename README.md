@@ -1,6 +1,6 @@
 # Apex's-AIO – .NET + VC++ All-in-One Installer
 
-One script to install every **.NET** runtime (1.0 → 10.x) and **VC++ Redistributable** (2005 → 2026) — x86 + x64.
+Silent All-in-One .NET Runtime & VC++ Redistributable Installer (2005–2026) x86 x64 — .NET Framework/Core 1.0–10 + Visual C++ offline installer
 
 ### Currently contains;
 
